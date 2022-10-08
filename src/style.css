@@ -1,1 +1,15 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#div-white {
+  width: 15em;
+  height: 23em;
+  border-radius: 1em;
+}
+
+h1 {
+  font-size: 4em;
+}
